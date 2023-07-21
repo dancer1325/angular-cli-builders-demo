@@ -13,3 +13,12 @@ The sample application which uses the Architect builder is available under the `
 ## License
 
 MIT
+
+## Notes
+* Structure
+  * 'builders.json'
+    * Builders definition
+  * 'src/schema.json'
+    * Definition of builder input options
+  * 'src/index.ts'
+    * Builder source code

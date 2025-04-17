@@ -1,24 +1,19 @@
 # Architect API demo
 
-This repository contains an example of the Angular CLI Architect API.
+* goal
+  * example of the Angular CLI Architect API
 
-## Builder
+## Architect Builder
 
-You can find the Architect builder in the `command-builder` directory.
+* [command-builder](command-builder)
+  * ['builders.json'](command-builder/builders.json)
+    * define builders
+  * ['schema.json'](command-builder/command/schema.json)
+    * define builder's input
+  * ['index.ts'](command-builder/command/index.ts)
+    * builder's source code
 
 ## Sample application
 
-The sample application which uses the Architect builder is available under the `builder-test` directory.
-
-## License
-
-MIT
-
-## Notes
-* Structure
-  * 'builders.json'
-    * Builders definition
-  * 'src/schema.json'
-    * Definition of builder input options
-  * 'src/index.ts'
-    * Builder source code
+* [builder-test](builder-test)
+* == SAMPLE application / uses the Architect builder

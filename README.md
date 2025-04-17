@@ -5,7 +5,7 @@
 
 ## Architect Builder
 
-* [command-builder](command-builder)
+* 👀[command-builder](command-builder) 👀
   * ['builders.json'](command-builder/builders.json)
     * define builders
   * ['schema.json'](command-builder/command/schema.json)
@@ -17,3 +17,4 @@
 
 * [builder-test](builder-test)
 * == SAMPLE application / uses the Architect builder
+  * ⭐️see [here](builder-test/README.md#touch)⭐️
